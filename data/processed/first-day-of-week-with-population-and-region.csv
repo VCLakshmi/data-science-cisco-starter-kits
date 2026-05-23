@@ -1,0 +1,258 @@
+,territory,alpha3,first_day,units,paper,population,four_regions
+0,Afghanistan,AFG,sat,metric,A4,39.07,asia
+1,Aland Islands,ALA,mon,metric,A4,,
+2,Albania,ALB,mon,metric,A4,2.87,europe
+3,Algeria,DZA,sat,metric,A4,44.04,africa
+4,American Samoa,ASM,sun,metric,A4,,
+5,Andorra,AND,mon,metric,A4,0.08,europe
+6,Angola,AGO,mon,metric,A4,33.45,africa
+7,Anguilla,AIA,mon,metric,A4,,
+8,Antarctica,ATA,mon,metric,A4,,
+9,Antigua & Barbuda,ATG,sun,metric,A4,0.09,americas
+10,Argentina,ARG,mon,metric,A4,45.19,americas
+11,Armenia,ARM,mon,metric,A4,2.89,europe
+12,Aruba,ABW,mon,metric,A4,,
+13,Ascension Island,ASC,mon,metric,A4,,
+14,Australia,AUS,mon,metric,A4,25.74,asia
+15,Austria,AUT,mon,metric,A4,8.92,europe
+16,Azerbaijan,AZE,mon,metric,A4,10.18,europe
+17,Bahamas,BHS,sun,US,A4,0.4,americas
+18,Bahrain,BHR,sat,metric,A4,1.48,asia
+19,Bangladesh,BGD,sun,metric,A4,166.3,asia
+20,Barbados,BRB,mon,metric,A4,0.28,americas
+21,Belarus,BLR,mon,metric,A4,9.35,europe
+22,Belgium,BEL,mon,metric,A4,11.54,europe
+23,Belize,BLZ,sun,US,US-Letter,0.39,americas
+24,Benin,BEN,mon,metric,A4,13.07,africa
+25,Bermuda,BMU,mon,metric,A4,,
+26,Bhutan,BTN,sun,metric,A4,0.77,asia
+27,Bolivia,BOL,mon,metric,A4,11.82,americas
+28,Bosnia & Herzegovina,BIH,mon,metric,A4,3.3,europe
+29,Botswana,BWA,sun,metric,A4,2.37,africa
+30,Bouvet Island,BVT,mon,metric,A4,,
+31,Brazil,BRA,sun,metric,A4,208.66,americas
+32,British Indian Ocean Territory,IOT,mon,metric,A4,,
+33,British Virgin Islands,VGB,mon,metric,A4,,
+34,Brunei,BRN,mon,metric,A4,0.45,asia
+35,Bulgaria,BGR,mon,metric,A4,6.93,europe
+36,Burkina Faso,BFA,mon,metric,A4,21.48,africa
+37,Burundi,BDI,mon,metric,A4,12.62,africa
+38,Cambodia,KHM,sun,metric,A4,16.73,asia
+39,Cameroon,CMR,mon,metric,A4,26.21,africa
+40,Canada,CAN,sun,metric,US-Letter,38.17,americas
+41,Canary Islands,,mon,metric,A4,,
+42,Cape Verde,CPV,mon,metric,A4,0.51,africa
+43,Caribbean Netherlands,BES,mon,metric,A4,,
+44,Cayman Islands,CYM,mon,US,A4,,
+45,Central African Republic,CAF,mon,metric,A4,5.03,africa
+46,Ceuta & Melilla,,mon,metric,A4,,
+47,Chad,TCD,mon,metric,A4,17.22,africa
+48,Chile,CHL,mon,metric,US-Letter,19.37,americas
+49,China,CHN,mon,metric,A4,1426.11,asia
+50,Christmas Island,CXR,mon,metric,A4,,
+51,Clipperton Island,CPT,mon,metric,A4,,
+52,Cocos (Keeling) Islands,CCK,mon,metric,A4,,
+53,Colombia,COL,sun,metric,US-Letter,50.63,americas
+54,Comoros,COM,mon,metric,A4,0.8,africa
+55,Congo - Brazzaville,COG,mon,metric,A4,5.75,africa
+56,Congo - Kinshasa,COD,mon,metric,A4,95.99,africa
+57,Cook Islands,COK,mon,metric,A4,,
+58,Costa Rica,CRI,mon,metric,US-Letter,5.03,americas
+59,Cote d’Ivoire,CIV,mon,metric,A4,28.92,africa
+60,Croatia,HRV,mon,metric,A4,3.95,europe
+61,Cuba,CUB,mon,metric,A4,11.18,americas
+62,Curacao,CUW,mon,metric,A4,,
+63,Cyprus,CYP,mon,metric,A4,1.3,europe
+64,Czechia,CZE,mon,metric,A4,10.55,europe
+65,Denmark,DNK,mon,metric,A4,5.83,europe
+66,Diego Garcia,DGA,mon,metric,A4,,
+67,Djibouti,DJI,sat,metric,A4,1.11,africa
+68,Dominica,DMA,sun,metric,A4,0.07,americas
+69,Dominican Republic,DOM,sun,metric,A4,11.01,americas
+70,Ecuador,ECU,mon,metric,A4,17.55,americas
+71,Egypt,EGY,sat,metric,A4,109.32,africa
+72,El Salvador,SLV,sun,metric,US-Letter,6.23,americas
+73,Equatorial Guinea,GNQ,mon,metric,A4,1.72,africa
+74,Eritrea,ERI,mon,metric,A4,3.29,africa
+75,Estonia,EST,mon,metric,A4,1.33,europe
+76,Eswatini,SWZ,mon,metric,A4,1.19,africa
+77,Ethiopia,ETH,sun,metric,A4,118.92,africa
+78,Falkland Islands,FLK,mon,metric,A4,,
+79,Faroe Islands,FRO,mon,metric,A4,,
+80,Fiji,FJI,mon,metric,A4,0.91,asia
+81,Finland,FIN,mon,metric,A4,5.53,europe
+82,France,FRA,mon,metric,A4,65.91,europe
+83,French Guiana,GUF,mon,metric,A4,,
+84,French Polynesia,PYF,mon,metric,A4,,
+85,French Southern Territories,ATF,mon,metric,A4,,
+86,Gabon,GAB,mon,metric,A4,2.32,africa
+87,Gambia,GMB,mon,metric,A4,2.52,africa
+88,Georgia,GEO,mon,metric,A4,3.8,europe
+89,Germany,DEU,mon,metric,A4,83.63,europe
+90,Ghana,GHA,mon,metric,A4,31.89,africa
+91,Gibraltar,GIB,mon,metric,A4,,
+92,Greece,GRC,mon,metric,A4,10.7,europe
+93,Greenland,GRL,mon,metric,A4,,
+94,Grenada,GRD,mon,metric,A4,0.12,americas
+95,Guadeloupe,GLP,mon,metric,A4,,
+96,Guam,GUM,sun,metric,A4,,
+97,Guatemala,GTM,sun,metric,US-Letter,17.36,americas
+98,Guernsey,GGY,mon,metric,A4,,
+99,Guinea,GIN,mon,metric,A4,13.37,africa
+100,Guinea-Bissau,GNB,mon,metric,A4,2.01,africa
+101,Guyana,GUY,mon,metric,A4,0.81,americas
+102,Haiti,HTI,mon,metric,A4,11.24,americas
+103,Heard & McDonald Islands,HMD,mon,metric,A4,,
+104,Honduras,HND,sun,metric,A4,10.12,americas
+105,Hong Kong SAR China,HKG,sun,metric,A4,7.49,asia
+106,Hungary,HUN,mon,metric,A4,9.75,europe
+107,Iceland,ISL,mon,metric,A4,0.37,europe
+108,India,IND,sun,metric,A4,1402.62,asia
+109,Indonesia,IDN,sun,metric,A4,274.81,asia
+110,Iran,IRN,sat,metric,A4,87.72,asia
+111,Iraq,IRQ,sat,metric,A4,42.12,asia
+112,Ireland,IRL,mon,metric,A4,4.98,europe
+113,Isle of Man,IMN,mon,metric,A4,,
+114,Israel,ISR,sun,metric,A4,8.8,asia
+115,Italy,ITA,mon,metric,A4,59.91,europe
+116,Jamaica,JAM,sun,metric,A4,2.83,americas
+117,Japan,JPN,sun,metric,A4,126.3,asia
+118,Jersey,JEY,mon,metric,A4,,
+119,Jordan,JOR,sat,metric,A4,10.87,asia
+120,Kazakhstan,KAZ,mon,metric,A4,19.48,asia
+121,Kenya,KEN,sun,metric,A4,52.22,africa
+122,Kiribati,KIR,mon,metric,A4,0.13,asia
+123,Kosovo,,mon,metric,A4,,
+124,Kuwait,KWT,sat,metric,A4,4.4,asia
+125,Kyrgyzstan,KGZ,mon,metric,A4,6.66,asia
+126,Laos,LAO,sun,metric,A4,7.35,asia
+127,Latvia,LVA,mon,metric,A4,1.9,europe
+128,Lebanon,LBN,mon,metric,A4,5.7,asia
+129,Lesotho,LSO,mon,metric,A4,2.24,africa
+130,Liberia,LBR,mon,"US, metric",A4,5.15,africa
+131,Libya,LBY,sat,metric,A4,7.05,africa
+132,Liechtenstein,LIE,mon,metric,A4,0.04,europe
+133,Lithuania,LTU,mon,metric,A4,2.8,europe
+134,Luxembourg,LUX,mon,metric,A4,0.63,europe
+135,Macao SAR China,MAC,sun,metric,A4,,
+136,Madagascar,MDG,mon,metric,A4,28.95,africa
+137,Malawi,MWI,mon,metric,A4,19.53,africa
+138,Malaysia,MYS,mon,metric,A4,33.89,asia
+139,Maldives,MDV,fri,metric,A4,0.5,asia
+140,Mali,MLI,mon,metric,A4,21.71,africa
+141,Malta,MLT,sun,metric,A4,0.52,europe
+142,Marshall Islands,MHL,sun,metric,A4,0.04,asia
+143,Martinique,MTQ,mon,metric,A4,,
+144,Mauritania,MRT,mon,metric,A4,4.6,africa
+145,Mauritius,MUS,mon,metric,A4,1.28,africa
+146,Mayotte,MYT,mon,metric,A4,,
+147,Mexico,MEX,sun,metric,US-Letter,126.8,americas
+148,Micronesia,FSM,mon,metric,A4,0.11,asia
+149,Moldova,MDA,mon,metric,A4,3.07,europe
+150,Monaco,MCO,mon,metric,A4,0.04,europe
+151,Mongolia,MNG,mon,metric,A4,3.29,asia
+152,Montenegro,MNE,mon,metric,A4,0.61,europe
+153,Montserrat,MSR,mon,metric,A4,,
+154,Morocco,MAR,mon,metric,A4,36.58,africa
+155,Mozambique,MOZ,sun,metric,A4,30.78,africa
+156,Myanmar (Burma),MMR,sun,"UK, metric",A4,53.02,asia
+157,Namibia,NAM,mon,metric,A4,2.73,africa
+158,Nauru,NRU,mon,metric,A4,0.01,asia
+159,Nepal,NPL,sun,metric,A4,28.97,asia
+160,Netherlands,NLD,mon,metric,A4,17.64,europe
+161,New Caledonia,NCL,mon,metric,A4,,
+162,New Zealand,NZL,mon,metric,A4,5.07,asia
+163,Nicaragua,NIC,sun,metric,US-Letter,6.57,americas
+164,Niger,NER,mon,metric,A4,23.72,africa
+165,Nigeria,NGA,mon,metric,A4,214.0,africa
+166,Niue,NIU,mon,metric,A4,,
+167,Norfolk Island,NFK,mon,metric,A4,,
+168,North Korea,PRK,mon,metric,A4,26.14,asia
+169,North Macedonia,MKD,mon,metric,A4,1.87,europe
+170,Northern Mariana Islands,MNP,mon,metric,A4,,
+171,Norway,NOR,mon,metric,A4,5.38,europe
+172,Oman,OMN,sat,metric,A4,4.52,asia
+173,Pakistan,PAK,sun,metric,A4,235.0,asia
+174,Palau,PLW,mon,US,A4,0.02,asia
+175,Palestinian Territories,PSE,mon,metric,A4,5.07,asia
+176,Panama,PAN,sun,metric,US-Letter,4.29,americas
+177,Papua New Guinea,PNG,mon,metric,A4,9.82,asia
+178,Paraguay,PRY,sun,metric,A4,6.6,americas
+179,Peru,PER,sun,metric,A4,32.84,americas
+180,Philippines,PHL,sun,metric,US-Letter,112.08,asia
+181,Pitcairn Islands,PCN,mon,metric,A4,,
+182,Poland,POL,mon,metric,A4,38.17,europe
+183,Portugal,PRT,sun,metric,A4,10.37,europe
+184,Puerto Rico,PRI,sun,US,US-Letter,,
+185,Qatar,QAT,sat,metric,A4,2.8,asia
+186,Reunion,REU,mon,metric,A4,,
+187,Romania,ROU,mon,metric,A4,19.39,europe
+188,Russia,RUS,mon,metric,A4,146.37,europe
+189,Rwanda,RWA,mon,metric,A4,13.07,africa
+190,Samoa,WSM,sun,metric,A4,0.21,asia
+191,San Marino,SMR,mon,metric,A4,0.03,europe
+192,Sao Tome & Principe,STP,mon,metric,A4,0.22,africa
+193,Sark,CRQ,mon,metric,A4,,
+194,Saudi Arabia,SAU,sun,metric,A4,30.99,asia
+195,Senegal,SEN,mon,metric,A4,16.79,africa
+196,Serbia,SRB,mon,metric,A4,6.91,europe
+197,Seychelles,SYC,mon,metric,A4,0.12,africa
+198,Sierra Leone,SLE,mon,metric,A4,7.91,africa
+199,Singapore,SGP,sun,metric,A4,5.62,asia
+200,Sint Maarten,SXM,mon,metric,A4,,
+201,Slovakia,SVK,mon,metric,A4,5.46,europe
+202,Slovenia,SVN,mon,metric,A4,2.1,europe
+203,Solomon Islands,SLB,mon,metric,A4,0.74,asia
+204,Somalia,SOM,mon,metric,A4,16.65,africa
+205,South Africa,ZAF,sun,metric,A4,60.56,africa
+206,South Georgia & South Sandwich Islands,SGS,mon,metric,A4,,
+207,South Korea,KOR,sun,metric,A4,51.86,asia
+208,South Sudan,SSD,mon,metric,A4,10.7,africa
+209,Spain,ESP,mon,metric,A4,47.68,europe
+210,Sri Lanka,LKA,mon,metric,A4,22.56,asia
+211,St. Barthelemy,BLM,mon,metric,A4,,
+212,St. Helena,SHN,mon,metric,A4,,
+213,St. Kitts & Nevis,KNA,mon,metric,A4,0.05,americas
+214,St. Lucia,LCA,mon,metric,A4,0.18,americas
+215,St. Martin,MAF,mon,metric,A4,,
+216,St. Pierre & Miquelon,SPM,mon,metric,A4,,
+217,St. Vincent & Grenadines,VCT,mon,metric,A4,0.1,americas
+218,Sudan,SDN,sat,metric,A4,46.79,africa
+219,Suriname,SUR,mon,metric,A4,0.61,americas
+220,Svalbard & Jan Mayen,SJM,mon,metric,A4,,
+221,Sweden,SWE,mon,metric,A4,10.35,europe
+222,Switzerland,CHE,mon,metric,A4,8.64,europe
+223,Syria,SYR,sat,metric,A4,21.05,asia
+224,Taiwan,TWN,sun,metric,A4,23.66,asia
+225,Tajikistan,TJK,mon,metric,A4,9.75,asia
+226,Tanzania,TZA,mon,metric,A4,60.97,africa
+227,Thailand,THA,sun,metric,A4,71.64,asia
+228,Timor-Leste,TLS,mon,metric,A4,1.33,asia
+229,Togo,TGO,mon,metric,A4,8.67,africa
+230,Tokelau,TKL,mon,metric,A4,,
+231,Tonga,TON,mon,metric,A4,0.11,asia
+232,Trinidad & Tobago,TTO,sun,metric,A4,1.48,americas
+233,Tristan da Cunha,TAA,mon,metric,A4,,
+234,Tunisia,TUN,mon,metric,A4,11.97,africa
+235,Turkiye,TUR,mon,metric,A4,86.09,europe
+236,Turkmenistan,TKM,mon,metric,A4,6.95,asia
+237,Turks & Caicos Islands,TCA,mon,metric,A4,,
+238,Tuvalu,TUV,mon,metric,A4,0.01,asia
+239,U.S. Outlying Islands,UMI,sun,metric,A4,,
+240,U.S. Virgin Islands,VIR,sun,metric,A4,,
+241,Uganda,UGA,mon,metric,A4,44.46,africa
+242,Ukraine,UKR,mon,metric,A4,44.68,europe
+243,United Arab Emirates,ARE,sat,metric,A4,9.45,asia
+244,United Kingdom,GBR,mon,UK,A4,67.35,europe
+245,United States,USA,sun,US,US-Letter,339.44,americas
+246,Uruguay,URY,mon,metric,A4,3.4,americas
+247,Uzbekistan,UZB,mon,metric,A4,33.59,asia
+248,Vanuatu,VUT,mon,metric,A4,0.3,asia
+249,Vatican City,VAT,mon,metric,A4,,
+250,Venezuela,VEN,sun,metric,US-Letter,28.44,americas
+251,Vietnam,VNM,mon,metric,A4,98.08,asia
+252,Wallis & Futuna,WLF,mon,metric,A4,,
+253,Western Sahara,ESH,mon,metric,A4,,
+254,Yemen,YEM,sun,metric,A4,36.13,asia
+255,Zambia,ZMB,mon,metric,A4,19.06,africa
+256,Zimbabwe,ZWE,sun,metric,A4,15.53,africa
